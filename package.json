@@ -1,0 +1,29 @@
+{
+  "name": "pi9oo",
+  "version": "1.0.0",
+  "description": "This is a cute pig game",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khantbestopped/Pi9oo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khantbestopped/Pi9oo/issues"
+  },
+  "homepage": "https://github.com/khantbestopped/Pi9oo#readme",
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
